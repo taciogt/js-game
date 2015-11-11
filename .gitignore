@@ -58,3 +58,6 @@ target/
 
 # js libs
 node_modules/
+
+# PyCharm project
+.idea
